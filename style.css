@@ -1,0 +1,28 @@
+body {
+	background-image: url(https://www.wpfangirl.com/wp-content/uploads/2015/09/shimmer-original-background.png)
+}
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 65px;
+	color: #FFB6C1;
+}
+
+h2 {
+	color: #4682B4;
+}
+
+p {
+	text-align: center;
+	padding: 20px;
+}
+
+.container,
+.jumbotron {
+	background-image: url(https://www.wpfangirl.com/wp-content/uploads/2015/09/shimmer-original-background.png)
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #4682B4;
+}
+
